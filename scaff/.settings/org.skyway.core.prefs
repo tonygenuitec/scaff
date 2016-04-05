@@ -1,0 +1,6 @@
+#org.skyway.core settings
+#Mon Apr 04 21:35:29 NZST 2016
+version=11.0.1.me201602080330
+default.top.level.package=com.myeclipseide
+models.folder.name=.springDSL
+initialized=true
